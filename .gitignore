@@ -54,3 +54,5 @@ temp/
 
 # Windows line endings (WSL safety)
 *.bat
+
+*:Zone.Identifier
